@@ -1,6 +1,7 @@
-class holamundo {
+class HolaMundo {
     public static void main(String[] args) {
 
-        System.out.println("holamundo cristobal ramos");
+        System.out.println("Hola Mundo");
+        System.out.println("Cristobal Ramos");
     }
 }
